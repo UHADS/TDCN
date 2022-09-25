@@ -1,7 +1,7 @@
 # TDCN
 This repository is an PyTorch implementation of the paper **Tree-structured Dilated Convolutional Networks for Image Compressed Sensing**
-You can find the original code and more information from [here](https://github.com/UHADS/TDCN)
-The paper [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9889727) 
+You can find the original code and more information from [here](https://github.com/UHADS/TDCN). 
+The paper: [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9889727) 
 
 # The version of the python package we use is：
 python 3.9
