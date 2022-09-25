@@ -30,4 +30,4 @@ If you find TDCN useful in your research, please consider citing:
 
 R. Lu and K. Ye, "Tree-Structured Dilated Convolutional Networks for Image Compressed Sensing," in IEEE Access, vol. 10, pp. 98374-98383, 2022, doi: 10.1109/ACCESS.2022.3206016.
 
-If you have any questions, you are welcome to contact me. My email is: 496315130@qq.com
+If you have any questions, you are welcome to contact me. My email is: 496315130@qq.com.
